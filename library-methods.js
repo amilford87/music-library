@@ -117,5 +117,3 @@ var library = {
 }
 
 
-
-console.log(library.printSearchResults("od"));
